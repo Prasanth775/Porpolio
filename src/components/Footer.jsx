@@ -8,7 +8,7 @@ const Footer = () => (
     color: '#aaa',
     marginTop: '2rem',
   }}>
-    <p>© {new Date().getFullYear()} Your Name. All rights reserved.</p>
+    <p>© {new Date().getFullYear()} J.Prasanth Kumar. All rights reserved.</p>
   </footer>
 );
 
