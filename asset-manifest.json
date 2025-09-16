@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Porpolio/static/css/main.e68b96cf.css",
-    "main.js": "/Porpolio/static/js/main.afb1c57a.js",
+    "main.js": "/Porpolio/static/js/main.0be6ffcb.js",
     "index.html": "/Porpolio/index.html",
     "main.e68b96cf.css.map": "/Porpolio/static/css/main.e68b96cf.css.map",
-    "main.afb1c57a.js.map": "/Porpolio/static/js/main.afb1c57a.js.map"
+    "main.0be6ffcb.js.map": "/Porpolio/static/js/main.0be6ffcb.js.map"
   },
   "entrypoints": [
     "static/css/main.e68b96cf.css",
-    "static/js/main.afb1c57a.js"
+    "static/js/main.0be6ffcb.js"
   ]
 }
