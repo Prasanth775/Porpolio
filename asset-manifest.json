@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Porpolio/static/css/main.2e207b9d.css",
+    "main.js": "/Porpolio/static/js/main.2e3395c1.js",
+    "index.html": "/Porpolio/index.html",
+    "main.2e207b9d.css.map": "/Porpolio/static/css/main.2e207b9d.css.map",
+    "main.2e3395c1.js.map": "/Porpolio/static/js/main.2e3395c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e207b9d.css",
+    "static/js/main.2e3395c1.js"
+  ]
+}
